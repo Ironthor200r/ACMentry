@@ -1,0 +1,25 @@
+{
+    "project_info": {
+        "project_number": "179222988612",
+        "project_id": "my-consumer-rating",
+        "storage_bucket": "my-consumer-rating.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:179222988612:android:3e8d0acb3ea83ac9acb911",
+            "android_client_info": {
+                "package_name": "com.thrivehub.analytics"
+            }
+        },
+        "oauth_client": [],
+        "api_key": [{
+            "current_key": "AIzaSyDy6vc6UG3NXam2IWZY4sS_PMp2VNdd52o"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": []
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
